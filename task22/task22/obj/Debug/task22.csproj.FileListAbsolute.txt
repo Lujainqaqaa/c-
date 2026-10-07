@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\c-\task22\task22\bin\Debug\task22.exe.config
+C:\Users\user\Desktop\c-\task22\task22\bin\Debug\task22.exe
+C:\Users\user\Desktop\c-\task22\task22\bin\Debug\task22.pdb
+C:\Users\user\Desktop\c-\task22\task22\obj\Debug\task22.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\c-\task22\task22\obj\Debug\task22.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\c-\task22\task22\obj\Debug\task22.exe
+C:\Users\user\Desktop\c-\task22\task22\obj\Debug\task22.pdb
