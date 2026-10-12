@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\c-\task4c#\task4c#\bin\Debug\task4c#.exe.config
+C:\Users\user\Desktop\c-\task4c#\task4c#\bin\Debug\task4c#.exe
+C:\Users\user\Desktop\c-\task4c#\task4c#\bin\Debug\task4c#.pdb
+C:\Users\user\Desktop\c-\task4c#\task4c#\obj\Debug\task4c#.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\c-\task4c#\task4c#\obj\Debug\task4c#.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\c-\task4c#\task4c#\obj\Debug\task4c#.exe
+C:\Users\user\Desktop\c-\task4c#\task4c#\obj\Debug\task4c#.pdb
